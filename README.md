@@ -1,9 +1,8 @@
  Hi 👋, I'm Ankita
  
-🌟 Junior Full-Stack Developer 
-
-💡 Started as an **Android Developer**, now building modern **Full-Stack Web Applications** and exploring **Generative AI**.  
-✨ Always learning, always growing.  
+- Junior Full-Stack Developer
+- Started as an **Android Developer**, now building modern **Full-Stack Web Applications** and exploring **Generative AI**.  
+- Always learning, always growing.  
 
 ---
 
