@@ -4,6 +4,8 @@
 💡 Started as an **Android Developer**, now building modern **Full-Stack Web Applications** and exploring **Generative AI**.  
 ✨ Always learning, always growing.  
 
+---
+
 ## 🔧 Tech Stack
 
 ### Frontend  
@@ -32,7 +34,10 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced System Design & Architecture  
+- Advanced System Design & Architecture
+
+---
+
 
   ## 📫 Connect With Me
 
